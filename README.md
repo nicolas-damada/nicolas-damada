@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  
+  <!-- Banner GIF Cibernético (Opcional, dá o toque de vídeo) -->
+  <img src="https://i.pinimg.com/originals/e8/8b/6f/e88b6f3458ff626c780cd569302cb348.gif" alt="Cyberpunk City" width="100%" style="border-radius: 10px; border: 2px solid #00ff00;"/>
 
-<!--
-**nicolas-damada/nicolas-damada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br><br>
 
-Here are some ideas to get you started:
+  <!-- Animação de digitação de terminal real -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=root@nicolas-os:~%24+./initialize_system.sh;>_+DECRYPTING_DATA...;>_+WELCOME,+NICOLAS_DAMADA" alt="Terminal Initialization" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 🟢 `>_ /home/nicolas/about.txt`
+
+```bash
+[+] SYSTEM INFORMATION 
+======================================================
+> USER_NAME     : Nicolas Rocha Damada
+> LEVEL/AGE     : 17
+> OCCUPATION    : Estudante de Desenvolvimento de Sistemas @ SENAI
+> LOCATION      : Americana, SP - Brasil
+> STATUS        : ONLINE
+> CURRENT_TASK  : Aprimorando habilidades no ecossistema Fullstack
+======================================================
