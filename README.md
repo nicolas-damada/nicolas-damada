@@ -20,6 +20,5 @@
 > LEVEL/AGE     : 17
 > OCCUPATION    : Estudante de Desenvolvimento de Sistemas @ SENAI
 > LOCATION      : Americana, SP - Brasil
-> STATUS        : ONLINE
 > CURRENT_TASK  : Aprimorando habilidades no ecossistema Fullstack
 ======================================================
