@@ -17,7 +17,7 @@
 [+] SYSTEM INFORMATION 
 ======================================================
 > USER_NAME     : Nicolas Rocha Damada
-> LEVEL/AGE     : 17
+> AGE           : 17
 > OCCUPATION    : Estudante de Desenvolvimento de Sistemas @ SENAI
 > LOCATION      : Americana, SP - Brasil
 > CURRENT_TASK  : Aprimorando habilidades no ecossistema Fullstack
